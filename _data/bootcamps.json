@@ -12,6 +12,7 @@
 		"housing": true,
 		"jobAssistance": true,
 		"jobGuarantee": false,
+		"averageCost": 10000,
 		"acceptGi": true
 	},
 	{
@@ -26,6 +27,7 @@
 		"careers": ["Web Development", "UI/UX", "Mobile Development"],
 		"housing": false,
 		"jobAssistance": true,
+		"averageCost": 12000,
 		"jobGuarantee": false,
 		"acceptGi": true
 	},
@@ -40,6 +42,7 @@
 		"address": "85 South Prospect Street Burlington VT 05405",
 		"careers": ["Web Development", "Data Science", "Business"],
 		"housing": false,
+		"averageCost": 8000,
 		"jobAssistance": false,
 		"jobGuarantee": false,
 		"acceptGi": false
@@ -61,6 +64,7 @@
 		],
 		"housing": false,
 		"jobAssistance": true,
+		"averageCost": 5000,
 		"jobGuarantee": true,
 		"acceptGi": true
 	}
